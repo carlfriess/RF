@@ -1,0 +1,14 @@
+RF_TX	KEYWORD1
+RF_RX	KEYWORD1
+
+write	KEYWORD2
+sizeofArray	KEYWORD2
+available	KEYWORD2
+read	KEYWORD2
+
+
+############################################
+# Syntax Coloring Map for PinChangeInterrupt
+
+attachPcInterrupt	KEYWORD2
+detachPcInterrupt	KEYWORD2
